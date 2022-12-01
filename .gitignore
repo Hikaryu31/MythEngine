@@ -1,0 +1,12 @@
+﻿MythEngine/Debug
+MythEngine/Engine/Debug
+MythEngine/Engine/editorsettings.xml
+MythEngine/Engine/resources
+*.sqlite
+.vs/ProjectSettings.json
+.vs/VSWorkspaceState.json
+MythEngine/enc_temp_folder
+MythEngine/Engine/editorsettings.xml
+MythEngine/compileData.scor
+MythEngine/compileData.scor.incl
+MythEngine/compileData.scor.t0000
